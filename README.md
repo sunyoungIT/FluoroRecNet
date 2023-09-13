@@ -7,9 +7,10 @@ IEEE Transactions on Medical Imaging (TMI)
 This repository contains the PyTorch implementation of a **Two-Step Unsupervised Framework Based on the Recursive Filter** for Medical Image Denoising
 
 ## Results
-![input-n2n](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/ca8b080b-101f-41c4-b719-4ce25e6fceb6)
-![n2v-dncnn](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/12bbd7e8-409d-4a72-b769-0d7b2b13a03e)
-![red-ndct](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/957ada8b-cd00-4ee7-86eb-234e8b30ee02)
+
+![a1](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/af828d1b-472e-48f2-bd91-015c6d99b458)
+![a2](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/48764ae4-d19e-4391-bc28-8d377cca4fad)
+![a3](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/cf3c94bd-553d-4142-9e36-d0f7a717817f)
 
 ## Contact
 if you have any question, please file an issue or contact the author:
