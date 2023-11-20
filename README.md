@@ -1,9 +1,9 @@
 
 
-# FluoroRecNet: An Unsupervised Recursive-based Framework for Low-dose Fluoroscopy Denoising
-Sun-Young Jeon, Sen Wang, Adam S. Wang, and Jang-Hwan Choi
+# Unsupervised Training of a Dynamic Context-Aware Deep Denoising Framework for Low-dose Fluoroscopic Imaging
 
-This repository contains the PyTorch implementation of a **Two-Step Unsupervised Framework Based on the Recursive Filter** for Medical Image Denoising
+This repository contains the PyTorch implementation of a **Two-step unsupervised dynamic context-aware denoising framework based on the recursive filter** for Low-Dose fluoroscopic imaging.
+The code is an implementation of the algorithm proposed in the paper, and it will be uploaded once the paper is accepted.
 
 ## Results
 
