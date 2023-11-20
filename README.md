@@ -7,9 +7,11 @@ The code is an implementation of the algorithm proposed in the paper, and it wil
 
 ## Results
 
-![a1](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/af828d1b-472e-48f2-bd91-015c6d99b458)
-![a2](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/48764ae4-d19e-4391-bc28-8d377cca4fad)
-![a3](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/cf3c94bd-553d-4142-9e36-d0f7a717817f)
+![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/77b5da7f-fb12-4f3a-84b4-98b963369c29)
+![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/6fdd4201-80cb-40ef-841d-9846da5f6316)
+![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/ea824876-61ed-45b8-a992-3e7eca4ff496)
+![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/87c3fb85-22ae-4a92-9b30-66d5c4119f0b)
+![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/f366fdf2-8572-4b15-8a1e-d8acb5acbc59)
 
 ## Contact
 if you have any question, please file an issue or contact the author:
