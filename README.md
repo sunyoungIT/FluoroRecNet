@@ -7,11 +7,10 @@ The code is an implementation of the algorithm proposed in the paper, and it wil
 
 ## Results
 
-![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/77b5da7f-fb12-4f3a-84b4-98b963369c29)
-![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/6fdd4201-80cb-40ef-841d-9846da5f6316)
-![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/ea824876-61ed-45b8-a992-3e7eca4ff496)
-![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/87c3fb85-22ae-4a92-9b30-66d5c4119f0b)
-![image](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/f366fdf2-8572-4b15-8a1e-d8acb5acbc59)
+![1](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/9c213494-c0e1-4a1c-aee0-57c32a8ccb51)
+![2](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/9b16e06d-5070-41e0-9275-53f5caf97bfb)
+![3](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/7b420125-80b4-4b4f-8df9-663abb116653)
+![4](https://github.com/sunyoungIT/FluoroRecNet/assets/51948046/a70cd886-ba67-40ae-8dcb-bef8d5e999e3)
 
 ## Contact
 if you have any question, please file an issue or contact the author:
